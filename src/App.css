@@ -1,0 +1,14 @@
+
+
+.names {
+  list-style: none;
+}
+
+.add-task {
+  padding: 20px;
+  margin-right: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
